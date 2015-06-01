@@ -1,0 +1,22 @@
+body {
+    padding-top: 50px;
+}
+
+.hey-listen-content{
+    padding: 40px 15px;
+    text-align: center;
+    height: 300px;
+}
+
+.footer {
+    text-align: center;
+    color: #777;
+}
+
+.btn-text {
+    margin-right: 8px;
+}
+
+#btn-aud-current {
+    width: 100px;
+}
